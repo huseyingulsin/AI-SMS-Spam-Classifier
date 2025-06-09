@@ -2,7 +2,7 @@
 
 This project builds an end-to-end spam detection model using the SMS Spam Collection dataset. It demonstrates how to preprocess raw text data, extract meaningful features, train a supervised model, evaluate it, and serialize the final pipeline.
 
-Inspired by the [HTB Academy – AI Red Teamer](https://academy.hackthebox.com/module/216) module, which covers real-world applications of AI in offensive and defensive security workflows.
+Inspired by the [HTB Academy – AI Red Teamer](https://academy.hackthebox.com/module/292/) module, which covers real-world applications of AI in offensive and defensive security workflows.
 
 ## Problem Statement
 
